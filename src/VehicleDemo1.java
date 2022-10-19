@@ -8,7 +8,6 @@ class VehicleDemo1{
     int dist = 252;
 
     gallons = coupe.fuelneeded(dist);
-    gallons = minivan.fuelneeded(dist);
 
     // state the passenger amount and compute gallons needed to go the distance
     System.out.println("A coupe carries " + coupe.passengers + " passengers. It needs "
