@@ -1,6 +1,6 @@
 // A program that uses the Vehicle Class
 
-class CompFuel{
+class VehicleDemo1{
   public static void main(String[] args) {
     Vehicle coupe = new Vehicle(); // create a Vehicle object named coupe
     Vehicle minivan = new Vehicle(); //create a Vehicle object named minivan
